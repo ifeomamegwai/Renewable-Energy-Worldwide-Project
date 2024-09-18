@@ -1,5 +1,4 @@
-# Le-Wagon-Final-Project
-Renewable Energy Worldwide:
+# Le-Wagon-Final-Project: Renewable Energy Worldwide:
 Summary
 -  Harnessing Data for a Sustainable Future: Analysing Global Trends in Renewable Energy from 2000 to 2020 (20 years data).
   
