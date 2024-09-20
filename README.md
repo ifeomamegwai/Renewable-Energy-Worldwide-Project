@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/d3b7018d-fa3d-4c9b-9be7-bf3de3fddcb0)
 
-# Le-Wagon-Final-Project: Renewable Energy Worldwide:
+# Renewable Energy Worldwide Project:
 Summary
 -  Harnessing Data for a Sustainable Future: Analysing Global Trends in Renewable Energy from 2000 to 2020 (20 years data).
   
