@@ -1,4 +1,4 @@
-<a href="https://shorturl.at/NluFM" target="_blank">👉 🔗Link to live project</a>
+<a href="https://shorturl.at/NluFM" target="_blank">🔗Link to live project</a>
 
 # Renewable Energy Worldwide Project:
 Summary
