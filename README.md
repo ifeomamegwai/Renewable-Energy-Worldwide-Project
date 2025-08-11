@@ -1,5 +1,7 @@
 👉 🔗https://shorturl.at/NluFM
 
+<a href="https://shorturl.at/NluFM" target="_blank">Link to live project</a>
+
 # Renewable Energy Worldwide Project:
 Summary
 -  Harnessing Data for a Sustainable Future: Analysing Global Trends in Renewable Energy from 2000 to 2020 (20 years data).
