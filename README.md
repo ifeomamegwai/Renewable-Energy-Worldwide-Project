@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d3b7018d-fa3d-4c9b-9be7-bf3de3fddcb0)
+👉 🔗https://shorturl.at/NluFM
 
 # Renewable Energy Worldwide Project:
 Summary
